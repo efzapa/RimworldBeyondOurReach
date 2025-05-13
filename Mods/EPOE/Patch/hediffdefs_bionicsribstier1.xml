@@ -26,7 +26,7 @@
 					</recipeMaker>
 					<statBases>
 						<WorkToMake>10000</WorkToMake>
-						<MarketValue>10000</MarketValue>
+						MarketValue>10000</MarketValue>
 					</statBases>
 					<graphicData>
 						<texPath>Things/Item/Health/HealthItem</texPath>
